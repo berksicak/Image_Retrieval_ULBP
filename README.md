@@ -28,6 +28,7 @@ For each of the images in the test folder, manhattan distance and histogram simi
 with the lowest histogram distances are returned. At the same time, achievements are displayed for each class and for each image.
 
 Accuracies :
+
 Banded :%66
 Bubbly :%66
 Chequered :%33
